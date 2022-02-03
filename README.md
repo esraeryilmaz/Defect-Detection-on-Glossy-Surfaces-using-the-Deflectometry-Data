@@ -1,2 +1,2 @@
-# Defect Detection on Glossy Surfaces using the Deflectometry Data CSE495
- CSE495 Graduation Project I
+# CSE495 Graduation Project I
+ Defect Detection on Glossy Surfaces using the Deflectometry Data
